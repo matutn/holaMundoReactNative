@@ -23,5 +23,7 @@ const estiloSalIni = StyleSheet.create({
 		color: 'white',
 		fontWeight: 'bold',
 		fontSize:50,
+		alignSelf: 'center',
+		marginBottom: 25,
 	}
 });
